@@ -1,0 +1,3 @@
+GET    /cocktails       CCocktails.GetAll
+POST   /cocktails/add   CCocktails.Add
+GET    /cocktails/:id   CCocktails.GetById
